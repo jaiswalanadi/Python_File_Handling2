@@ -1,0 +1,18 @@
+ERROR:root:Unsupported operation
+ERROR:root:Unsupported operation
+ERROR:root:Unsupported operation
+ERROR:root:Linux function was not executed
+WARNING:root:Nothing went wrong
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: fbf155d2-a574-4742-8708-fb9316867c20
+ERROR:root:Something went wrong
+WARNING:root:The 'try except' is finished
+ERROR:root:You provided -78. Please provide positive integer values only
+ERROR:root:You have just made an Arithmetic error
+ERROR:root:You have just made an Arithmetic error
+ERROR:root:You have just made an Arithmetic error
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 97f59111-3065-4460-8bca-e1f25e96f550
+ERROR:root:Key Error Exception Raised.
+ERROR:root:Key Error Exception Raised.
+ERROR:root:Index Error Exception Raised, list index out of range
